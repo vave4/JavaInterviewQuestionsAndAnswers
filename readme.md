@@ -1,20 +1,9 @@
-# Java Interview Questions and Answers
-
-
+# Java Interview Questions and Answers.
 
 ## Expectations
 - Good Java Knowledge
 
-## Complete Course Link
-- https://www.udemy.com/course/java-interview-questions-and-answers/?couponCode=NOVEMBER-2019
-
 ## Things You Need to Know
-
-###  Github Repository
-https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers
-
-### PDF Guide
-Available in the resources for the course
 
 ### Installing Eclipse, Java and Maven
 - PDF : https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
@@ -278,20 +267,3 @@ Available in the resources for the course
 - 222 . What are the new features in Java 6?
 - 223 . What are the new features in Java 7?
 - 224 . What are the new features in Java 8?
-
-### What you can do next?
-- [Design Patterns] (https://www.youtube.com/watch?v=f5Rzr5mVNbY)
-- [Maven] (https://courses.in28minutes.com/p/maven-tutorial-for-beginners-in-5-steps)
-- [JSP Servlets] (https://www.youtube.com/watch?v=Vvnliarkw48)
-- [Spring MVC] (https://www.youtube.com/watch?v=BjNhGaZDr0Y)
-
-### Troubleshooting
-- Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
-
-## Youtube Playlists - 500+ Videos
-
-[Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://www.youtube.com/user/rithustutorials/playlists?view=1&sort=lad&flow=list)
-
-## Keep Learning in28Minutes
-
-in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Stack and the Cloud - Docker, Kubernetes, AWS, React, Angular etc. - [Check out all our courses here](https://github.com/in28minutes/learn)
